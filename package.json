@@ -1,0 +1,11 @@
+{
+  "name": "Selenium",
+  "version": "1.0.0",
+  "description": "Leraning to use Selenium",
+  "main": "index.js",
+  "author": "Fred",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^3.5.0"
+  }
+}
